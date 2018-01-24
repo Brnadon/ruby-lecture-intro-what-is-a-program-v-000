@@ -21,9 +21,3 @@ puts "Finally, barewords, or variables, that are set equal to things."
 puts "Anything that isn't one of those will cause an error."
 
 see
-
-<<<<<<< HEAD
-ruby
-=======
-ruby
->>>>>>> 526c97984731d409ba9ab8bccb73a9c2d4051fb2

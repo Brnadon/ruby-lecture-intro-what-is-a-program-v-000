@@ -20,7 +20,7 @@ puts "Finally, barewords, or variables, that are set equal to things."
 
 puts "Anything that isn't one of those will cause an error."
 
-puts "see"
+see
 
 <<<<<<< HEAD
 ruby
